@@ -20,7 +20,7 @@ This is a simple weather application built using React.js and the OpenWeatherMap
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/juned072/Weather_App.git
 ```
 
 2. Navigate to the project directory:
